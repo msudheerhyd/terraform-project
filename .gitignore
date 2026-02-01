@@ -1,0 +1,9 @@
+# Local terraform directories (contains heavy binaries)
+.terraform/
+
+# State files (contains secrets/sensitive data)
+*.tfstate
+*.tfstate.backup
+
+# Lock files
+.terraform.lock.hcl
