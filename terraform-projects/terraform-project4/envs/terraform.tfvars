@@ -1,0 +1,6 @@
+location = "East US"
+resource_group_name = "terraform-dev-rg"
+vm_name = "example-vm"
+vm_size = "Standard_B1s"
+admin_username = "adminuser"
+admin_password = "P@ssw0rd!"
